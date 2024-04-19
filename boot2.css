@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+.one{
+    background-color: rgb(148, 91, 189);
+}
+.navtxt{
+    color:violet !important;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 1%;
+}
+.bgimg{
+    background-image: url("https://thumbs.dreamstime.com/b/beautiful-nature-background-violet-wallpaper-lavender-flowers-summer-sunset-landscape-blue-sky-clouds-aroma-field-summertime-photo-188927660.jpg");
+    height:90vh;
+    width:100vw;
+    background-position: center;
+    background-size: cover;
+    opacity:0.9;
+}
+/* heading */
+.heading{
+    color:palevioletred;
+    text-transform: capitalize;
+    font-size:50px;
+    font-weight: bold;
+
+}
+.para{
+    color:white;
+    text-transform: capitalize;
+    font-size:30px;
+}
+#bts{
+    background-color:purple;
+    color: rgb(16, 1, 39);
+}
+#bts:hover{
+    transform: scale(1.1);
+}
+.sec1{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+   padding-top: 2%;
+    
+
+}
+#about{
+    background-color: #fff;
+    width:100vw;
+}
+.hello{
+    margin-top: 5%;
+}
+.card-img-top{
+    aspect-ratio: 3/2;
+}
+.card-title{
+    color:purple;
+}
+.fa-google-pay{
+    color:crimson;
+    font-size:x-large;
+    padding-left: 3px;
+
+}
+.fa-cc-visa{
+    color:crimson;
+    font-size:x-large;
+    padding-left:4px;
+
+}
+.fa-brands{
+    color:whitex;
+    font-size: xx-large;
+}
+.footer
+{
+    background-color: blueviolet;
+}
+.fa-solid{
+    position:fixed;
+    bottom:0%;
+    right:0%;
+    color:red;
+    background-color: goldenrod;
+}
